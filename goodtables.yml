@@ -1,0 +1,5 @@
+files:
+    - source: libraries.csv
+    - source: councillors-emails.csv
+      schema: schema.councillors-emails.json
+    - source: councillors-address.csv

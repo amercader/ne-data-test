@@ -13,7 +13,7 @@ name,plan,due,longitude,latitude
 "Fenham Library",close,"June 2013",-1.660852,54.984157
 "Jesmond Library",close,"June 2013",-1.606400,54.993257
 "Outer West Library",keep,,-1.699978,54.992805
-"Gosforth Library",keep,,-1.622916,55.010420
+"Gosforth Library",keep,-1.622916,55.010420
 "Cruddas Park Library",close,"June 2013",-1.636921,54.965872
 "East End Library",reduced,,-1.577799,54.976726
 "Newbiggin Hall Library",close,"March 2015",-1.687648,55.006649
